@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SpringMVCApp1:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36fcaf2d-a87f-4d0e-ba35-d61e13940d81" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java for beginner/.idea/Java for beginner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java for beginner/out/production/Java for beginner/.idea/Java for beginner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java for next/.idea/Java for beginner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java for next/Java for next.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java for next/out/production/Java for beginner/.idea/Java for beginner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lambda/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lambda/src/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lambda/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lambda/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lambda/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lambda/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Synchron/Synchron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestProject/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/java/ru/alishev/springcourse/ClassicalMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/java/ru/alishev/springcourse/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/java/ru/alishev/springcourse/JazzMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/java/ru/alishev/springcourse/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/java/ru/alishev/springcourse/MusicEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/java/ru/alishev/springcourse/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/java/ru/alishev/springcourse/RockMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/java/ru/alishev/springcourse/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/java/ru/alishev/springcourse/TestBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/java/ru/alishev/springcourse/TestSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/resources/musicPlayer.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-app1/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/.idea/Java for beginner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/HW15/.idea/HW15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/HW15/StringValidation/StringValidation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/HW15/Task1/Task1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/HW15/Task2/Task2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/HW16/.idea/HW16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/HW16/Task2/Task2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/HW16/Task3/Task3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/HW16/Task4/Task4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/HW6/.idea/HW6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/HW7/.idea/HW7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/HW8/.idea/HW8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/HW9/.idea/HW9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/Java for beginner/.idea/Java for beginner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/Java for beginner/out/production/Java for beginner/.idea/Java for beginner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/git project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/hellow-world/HW project/HW project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/hellow-world/HW project/out/production/HW project/HW project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/git project/out/production/Java for beginner/.idea/Java for beginner.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YDTeJjclMOiEpqdpegfOWjCY6N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Катя/git project/hello-world/SpringMVCApp1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.83" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SpringMVCApp1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="2d19d790-4de8-49da-8311-c2d81348cf7d" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63926" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SpringMVCApp1:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36fcaf2d-a87f-4d0e-ba35-d61e13940d81" name="Changes" comment="" />
+      <created>1700059245949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700059245949</updated>
+      <workItem from="1700066922695" duration="1455000" />
+      <workItem from="1700144589118" duration="7768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
